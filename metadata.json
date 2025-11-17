@@ -1,0 +1,5 @@
+{
+  "name": "QA Dashboard Pro",
+  "description": "A comprehensive QA dashboard for tracking team performance, analyzing benchmarks, generating reports, and receiving AI-powered feedback. Includes full authentication and user management powered by Firebase.",
+  "requestFramePermissions": []
+}
